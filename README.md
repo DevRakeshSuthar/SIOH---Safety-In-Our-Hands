@@ -25,7 +25,7 @@ We are just in the beginning phases of the project.
 We're very excited about the project and we're looking for other people to get involved. Over time we would like to make the best messaging framework for mobile. Help is always welcome. The more is done the better it gets!
 
 ## Contribution Guidelines
-Before contributing be sure to check out the [CONTRIBUTION]() guidelines.
+Before contributing be sure to check out the [CONTRIBUTION](https://github.com/DevRakeshSuthar/SIOH---Safety-In-Our-Hands/blob/master/CONTRIBUTION.md) guidelines.
 
 
 # License
